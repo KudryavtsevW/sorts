@@ -10,3 +10,4 @@ cd <directory>
 make
 ./sort-sfml <inc/dec> (increasing/decreasing)
 ```
+![image info](./merge.JPG)
